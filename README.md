@@ -1,4 +1,5 @@
-![Image]([https://i.hizliresim.com/a2xn9nt.jpg](https://media.licdn.com/dms/image/v2/D5612AQE0r5WC8r0HQg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1657711469335?e=2147483647&v=beta&t=AA7ierE6T8n-g7EDphWBu9qKdqcsXkOXo4tj7xg146s))
+<img src="[https://cdn.prod.website-files.com/601be0f0f62d8b2e2a92b830/6511b5215165096a2816d85a_web-development-cybersecurity-p-500.png](https://media.licdn.com/dms/image/v2/D5612AQE0r5WC8r0HQg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1657711469335?e=2147483647&v=beta&t=AA7ierE6T8n-g7EDphWBu9qKdqcsXkOXo4tj7xg146s)" alt="Cybersecurity and Web Development" align="center">
+
 
 
 <h1 align="center">Hi 👋, I'm Fuat Şimşek</h1>
