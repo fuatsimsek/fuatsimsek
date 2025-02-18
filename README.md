@@ -1,4 +1,4 @@
-<img src="https://cdn.prod.website-files.com/601be0f0f62d8b2e2a92b830/6511b5215165096a2816d85a_web-development-cybersecurity-p-500.png" alt="Cybersecurity and Web Development" style="display:block; margin-left:auto; margin-right:auto; align-items:center; justify-content:center;">
+<img src="https://cdn.prod.website-files.com/601be0f0f62d8b2e2a92b830/6511b5215165096a2816d85a_web-development-cybersecurity-p-500.png" alt="Cybersecurity and Web Development" style="display:block; margin-left:auto; margin-right:auto; width:100%; height:auto; object-fit:cover;">
 
 
 <h1 align="center">Hi 👋, I'm Fuat Şimşek</h1>
