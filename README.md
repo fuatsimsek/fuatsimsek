@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/601be0f0f62d8b2e2a92b830/6511b5215165096a2816d85a_web-development-cybersecurity-p-500.png" alt="Cybersecurity and Web Development" style="width: 70%; height: auto; object-fit: contain;">
+  <img src="https://cdn.prod.website-files.com/601be0f0f62d8b2e2a92b830/6511b5215165096a2816d85a_web-development-cybersecurity-p-500.png" alt="Cybersecurity and Web Development" style="width: auto; height: auto; object-fit: contain;">
 </p>
 
 
