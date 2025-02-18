@@ -25,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuatsimsek&show_icons=true&theme=dark&locale=en&layout=compact" alt="fuatsimsek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=dark&locale=en" alt="fuatsimsek" /></p>
+
+
+![snake gif](https://github.com/fuatsimsek/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
