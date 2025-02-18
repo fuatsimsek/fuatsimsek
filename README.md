@@ -1,4 +1,4 @@
-<img src="https://cdn.prod.website-files.com/601be0f0f62d8b2e2a92b830/6511b5215165096a2816d85a_web-development-cybersecurity-p-500.png" alt="Cybersecurity and Web Development" align="center">
+[![Image](https://i.hizliresim.com/a2xn9nt.jpg)](https://hizliresim.com/a2xn9nt)
 
 <h1 align="center">Hi 👋, I'm Fuat Şimşek</h1>
 <h3 align="center">I am developing cybersecurity and web development, and I live in Turkey.</h3>
