@@ -1,4 +1,4 @@
-[[!MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itmagination.com%2Fblog%2Fcybersecurity-and-web-development&psig=AOvVaw25ZyOqon70IVqdmesWPGBU&ust=1739972797282000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCx_vmtzYsDFQAAAAAdAAAAABAE)]
+[[!MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itmagination.com%2Fblog%2Fcybersecurity-and-web-development&psig=AOvVaw25ZyOqon70IVqdmesWPGBU&ust=1739972797282000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCx_vmtzYsDFQAAAAAdAAAAABAE](https://cdn.prod.website-files.com/601be0f0f62d8b2e2a92b830/6511b5215165096a2816d85a_web-development-cybersecurity-p-500.png))]
 <h1 align="center">Hi 👋, I'm Fuat Şimşek</h1>
 <h3 align="center">I am developing cybersecurity and web development, and I live in Turkey.</h3>
 
