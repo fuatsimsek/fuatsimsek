@@ -1,4 +1,5 @@
-<img src="https://i.hizliresim.com/a2xn9nt.jpg)](https://hizliresim.com/a2xn9nt" alt="Cybersecurity and Web Development" align="center">
+![Image](https://i.hizliresim.com/a2xn9nt.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Fuat Şimşek</h1>
 <h3 align="center">I am developing cybersecurity and web development, and I live in Turkey.</h3>
