@@ -25,7 +25,7 @@
    <strong>Web Development:</strong> React, ASP.NET MVC, .NET Core, Bootstrap, Node.js, PHP
 </p>
 <p align="left">
-   <strong>Databases:</strong> MySQL, MSSQL, SQL Server
+   <strong>Databases:</strong> MySQL, MSSQL
 </p>
 <p align="left">
    <strong>Cybersecurity:</strong> Network Security, Penetration Testing, Ethical Hacking
