@@ -22,7 +22,7 @@
    <strong>Languages:</strong> C, C++, C#, JavaScript, Python, PHP, HTML, CSS, SQL
 </p>
 <p align="left">
-   <strong>Web Development:</strong> React, ASP.NET MVC, .NET Core, Bootstrap, Node.js, Express, PHP
+   <strong>Web Development:</strong> React, ASP.NET MVC, .NET Core, Bootstrap, Node.js, PHP
 </p>
 <p align="left">
    <strong>Databases:</strong> MySQL, MSSQL, SQL Server
