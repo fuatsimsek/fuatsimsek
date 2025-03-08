@@ -19,7 +19,7 @@
 </p>  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <strong>Languages:</strong> C, C++, C#, JavaScript, Python, PHP, HTML, CSS, SQL
+   <strong>Languages:</strong> C, C++, C#, JavaScript, Python, PHP, HTML, CSS
 </p>
 <p align="left">
    <strong>Web Development:</strong> React, ASP.NET MVC, .NET Core, Bootstrap, Node.js, PHP
