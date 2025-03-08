@@ -9,7 +9,7 @@
 <p align="left"> 
    <a href="https://twitter.com/fuatsiimsek" target="blank"><img src="https://img.shields.io/twitter/follow/fuatsiimsek?logo=twitter&style=for-the-badge" alt="fuatsiimsek" /></a> 
 </p>  
-- 🔭 I’m currently working on Cybersecurity  
+- 🔭 I’m currently working on Cybersecurity  <br>
 - 📫 How to reach me **fuatsiimsek@gmail.com
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
