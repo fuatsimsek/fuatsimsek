@@ -19,40 +19,54 @@
   - Building automation for cybersecurity operations
   - Expanding knowledge in cloud-based security systems
 - ☁️ Interested in cloud infrastructure design and deployment  
-- 📫 Contact: **fuatsimsekk4@gmail.com**  
+- 📫 Contact: **fuatsiimsek@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/fuatsimsek](https://linkedin.com/in/fuatsimsek)
 
 ---
 
 ## 🚀 Featured Projects
 
-### Cybersecurity Toolkit
-An open-source collection of widely used cybersecurity tools with English descriptions and official links.  
-> **Categories:** Web Security, Network Scanning, Forensics & IR, Blue Team, OSINT, Cloud Security
+### Cybersecurity Toolkit *(Public)*
+An open-source collection of widely used cybersecurity tools with clear explanations and official links.  
+> **Categories:** Web Security, Network Scanning, Forensics & IR, Blue Team, OSINT, Cloud Security  
+> **Tech Stack:** Markdown, GitHub Pages
 
 ---
 
 ### SanalMuhasebem *(Private Repo)*
 A modern accounting and consulting platform designed to provide a **secure**, **scalable**, and **user-friendly** experience for businesses.  
-This project is actively used in production and remains private for security reasons.
+This project is actively used in production and remains private for security reasons.  
+> **Note:** Technical details are kept private for security purposes.
 
 ---
 
-### Primefit
-An e-commerce platform for supplements and fitness products, offering a modern and responsive shopping experience.  
-Focused on providing a streamlined user experience for both customers and administrators.
+### Primefit *(Public)*
+💪 An advanced e-commerce platform for supplements and fitness products, offering a modern and responsive shopping experience.  
+> **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript, HTML5, CSS3  
+> **Topics:** eCommerce, user management, responsive design
 
 ---
 
-### Student Information System
-A desktop-based management application built to simplify handling student data and administrative processes.  
-Designed with a focus on usability and efficient data handling.
+### GameRent *(Public)*
+🎮 A game rental and management automation system.  
+Allows users to create accounts, rent or buy games, while admins manage games and users.  
+> **Tech Stack:** C#, .NET 7, MSSQL  
+> **Topics:** CRUD, automation, backend development
 
 ---
 
-### Pizza Toco
-A modern restaurant website designed for performance and easy content management.  
-Created with clean UI principles and responsive layout.
+### Student Information System *(Public)*
+A desktop application for managing student data and administrative processes.  
+Focuses on **ease of use**, **data integrity**, and **efficient interaction** with the database.  
+> **Tech Stack:** Python, PyQt5, SQL Server  
+> **Features:** Add, update, delete, and search student records
+
+---
+
+### Pizza Toco *(Public)*
+🍕 A modern restaurant website with a clean UI, performance-focused design, and easy content management.  
+> **Tech Stack:** React, Vite, Node.js, HTML5, CSS3  
+> **Topics:** Frontend, responsive design, modern web architecture
 
 ---
 
