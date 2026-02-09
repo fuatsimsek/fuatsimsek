@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Fuat Şimşek</h1>
-<h3 align="center">Computer Engineer | Application Security Enthusiast | Security Researcher</h3>
+<h3 align="center">Computer Engineer | Application Penetration Tester | Security Researcher</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/fuatsimsek">
@@ -18,19 +18,21 @@
 
 ---
 
-## 👨‍💻 Engineering Philosophy & Vision
+## Engineering Philosophy & Vision
 
-I am a **Computer Engineering Senior** at Amasya University with a strong passion for **Offensive Security**.
+I am a **Computer Engineering Senior** at Amasya University with a dedicated focus on **Offensive Security**.
 
-My approach is grounded in engineering: **"To break a system effectively, you must first know how to build it."**
-I focus on the **Software Development Life Cycle (SDLC)** by building complex, full-stack applications. I develop these projects to master the underlying technologies (Microservices, MVC, ORM, AI). This deep engineering knowledge allows me to identify architectural flaws and logical vulnerabilities that surface in real-world applications.
+My methodology is rooted in engineering: **"To break a system effectively, you must first know how to build it."**
+I focus on the **Software Development Life Cycle (SDLC)** by building complex, full-stack applications. I architect these systems personally to master underlying technologies (Microservices, MVC, ORM, AI), gaining a deep understanding of architectural flaws and logical vulnerabilities.
 
-* 🎯 **Focus:** Web Application Penetration Testing, Secure Code Review, and Red Teaming.
-* 🛠️ **Methodology:** Developing robust applications to understand the "builder's mindset," which is essential for advanced exploitation.
+Although my primary focus is **Red Teaming** and **Application Penetration Testing**, I have deliberately cultivated strong **Blue Team skills (SIEM, DLP, Threat Intelligence)**. Understanding how defensive layers are configured allows me to design more sophisticated evasion techniques and comprehensive attack simulations.
+
+* **Focus:** Application Penetration Testing, Reverse Engineering, Secure Code Review, and Red Teaming.
+* **Methodology:** Developing robust applications to understand the "builder's mindset," which is essential for advanced exploitation.
 
 ---
 
-## 🏗️ Technical Architecture & Stack
+## Technical Architecture & Stack
 *I utilize a diverse stack to understand the anatomy of modern applications.*
 
 | Domain | Technologies & Architectures |
@@ -39,18 +41,18 @@ I focus on the **Software Development Life Cycle (SDLC)** by building complex, f
 | **Languages** | **Python**, **C#**, **C++**, **C**, JavaScript/TypeScript, SQL |
 | **Data & ORM** | **MSSQL**, **PostgreSQL**, **MongoDB**, **MySQL**, SQLite <br> *SQLAlchemy, Entity Framework, ACID Principles* |
 | **Systems & Cloud** | **AWS**, **Docker**, Linux (Debian/RedHat), Windows Server, **ROS (Robot Operating System)**, Gazebo |
-| **Security Competencies** | Application Penetration Testing, Source Code Analysis, Network Escalation, Threat Intelligence (Foundation) |
+| **Security Competencies** | **Application Penetration Testing**, **Reverse Engineering**, **Source Code Analysis**, **SIEM**, **DLP**, **Threat Intelligence** |
 
 ---
 
-## 🚀 Engineering Projects
+## Engineering Projects
 *I build these projects to deepen my understanding of software architecture, which directly contributes to my security research capabilities.*
 
 | Project | Core Stack | Description & Engineering Purpose |
 | :--- | :--- | :--- |
 | **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `SQLAlchemy` `RBAC` | **B2B SaaS:** A comprehensive CRM and accounting system designed to manage client relationships, appointments, and support tickets with complex Role-Based Access Control logic. |
 | **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` | **Robotics Simulation:** A "Digital Twin" project using Computer Vision and PID controllers to automate industrial waste separation in a physics-based simulation environment. |
-| **[LungRisk-QuitSmoking-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Python` `Scikit-learn` | **Artificial Intelligence:** A Machine Learning model developed to analyze clinical data and predict health risks associated with smoking habits. |
+| **[LungRisk-QuitSmoking-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Django` `Python` `AI/ML` | **AI Web Application:** A web-based AI platform developed with **Django** to analyze clinical data and predict health risks, focusing on secure model deployment and data handling. |
 | **[GameRent](https://github.com/fuatsimsek/GameRent)** | `.NET 7` `MSSQL` | **Enterprise Automation:** A monolithic game rental management system focusing on strict database integrity (ACID) and layered architecture in the .NET ecosystem. |
 | **[Primefit](https://github.com/fuatsimsek/Primefit)** | `PHP` `MySQL` `JS` | **E-Commerce:** A fully functional online store for fitness products, featuring custom shopping cart logic, user session management, and frontend design. |
 | **[Student Info System](https://github.com/fuatsimsek/Student-Information-System)** | `Python` `PyQt5` | **Desktop Application:** A local management tool designed for efficient student record handling with direct database operations and a custom GUI. |
@@ -63,7 +65,7 @@ I focus on the **Software Development Life Cycle (SDLC)** by building complex, f
 
 ---
 
-## 📊 Activity
+## Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
