@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop" alt="Engineering and Security" style="width: 100%; height: 280px; object-fit: cover; border-radius: 6px;">
+  <img src="arkaplan.jpeg" alt="Offensive Security & Engineering" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;">
 </div>
 
+<br>
+
 <h1 align="center">Fuat Şimşek</h1>
-<h3 align="center">Computer Engineer | Penetration Tester | Security Researcher</h3>
+<h3 align="center">Computer Engineer | Application Penetration Tester | Security Researcher</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/fuatsimsek">
@@ -16,54 +18,52 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Engineering Philosophy & Security Vision
 
-I am a **Computer Engineering Senior** at Amasya University, specializing in **Offensive Security** and **Application Security**.
+I am a **Computer Engineering Senior** at Amasya University, holding a **Certified Application Penetration Tester** credential.
 
-My approach to security is rooted in engineering: **I build complex systems to understand how to break them.**
-While my core focus is **Penetration Testing**, I have established a strong defensive foundation through rigorous training and certifications in **SOC Operations, Threat Intelligence, and DLP**. I leverage my full-stack development expertise to perform deep-dive source code analysis and identify architectural vulnerabilities that automated tools miss.
+My methodology is simple: **"You cannot effectively secure (or exploit) what you do not understand."**
+Unlike script-reliant approaches, I focus on the **Software Development Life Cycle (SDLC)**. I build complex, full-stack applications as personal projects to master the underlying technologies (Microservices, MVC, ORM, Cloud Infra). By architecting these systems myself, I gain a deep understanding of logical flaws, architectural vulnerabilities, and attack surfaces that automated scanners often miss.
 
-* 🎯 **Current Focus:** Advanced Web Application Penetration Testing & Secure Code Review.
-* 🏗️ **Methodology:** utilizing software engineering skills to develop custom exploit scripts and understand backend logic flaws.
-
----
-
-## 🧠 Technical Competencies
-
-### 🛡️ Security Domain
-| Area | Proficiency |
-| :--- | :--- |
-| **Offensive Security** | Web Application Penetration Testing, Network Escalation, API Security |
-| **Defensive Foundations** | SOC Architecture, Threat Intelligence, DLP Implementation, Log Analysis |
-| **Security Research** | Vulnerability Analysis, Secure Software Development Life Cycle (SSDLC) |
-
-### 🏗️ Engineering & Development Stack
-*I utilize these technologies to build projects and understand their attack surfaces.*
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C++, C#, PHP, JavaScript/TypeScript, SQL |
-| **Web Frameworks** | Flask (Python), React.js, .NET Core, ASP.NET MVC |
-| **Databases** | MSSQL, MySQL, PostgreSQL, SQLite |
-| **Systems & Cloud** | Linux (Debian/RedHat), Windows Server, Docker, ROS (Robot Operating System) |
+* 🎯 **Primary Focus:** Web Application Penetration Testing, Secure Code Review, and Red Teaming.
+* 🛠️ **Approach:** Leveraging strong engineering foundations (.NET, Python, C++) to develop custom exploit chains and analyze backend logic.
 
 ---
 
-## 🚀 Engineering Projects & Architecture
+## 🏗️ Technical Architecture & Stack
+*I utilize a diverse stack to understand the anatomy of modern applications.*
 
-I develop full-scale applications to simulate real-world environments for security testing and architectural analysis.
+| Domain | Technologies & Architectures |
+| :--- | :--- |
+| **Backend & Frameworks** | **.NET Core**, **ASP.NET MVC**, **Django**, **Flask**, Node.js, PHP <br> *Microservices Architecture, MVC Pattern, RESTful APIs* |
+| **Languages** | **Python**, **C#**, **C++**, **C**, JavaScript/TypeScript, SQL |
+| **Data & ORM** | **MSSQL**, **PostgreSQL**, **MongoDB**, **MySQL**, SQLite <br> *SQLAlchemy, Entity Framework, ACID Principles* |
+| **Systems & Cloud** | **AWS (Amazon Web Services)**, **Docker**, Linux (Debian/RedHat), Windows Server, **ROS (Robot Operating System)**, Gazebo |
+| **Security Competencies** | Application Penetration Testing, Source Code Analysis, Network Escalation, Threat Intelligence |
 
-| Project | Tech Stack | Description & Purpose |
+---
+
+## 🚀 Engineering Projects for Security Research
+*These projects are developed to master specific technologies and understand their security implications.*
+
+| Project | Core Stack | Engineering & Security Context |
 | :--- | :--- | :--- |
-| **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `Python` `RBAC` `SQLAlchemy` | **B2B SaaS Architecture:** A complex CRM and accounting system implementing **Role-Based Access Control (RBAC)** to enforce segregation of duties and secure authentication flows. |
-| **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` `Python` | **Robotics & Automation:** A "Digital Twin" simulation using PID controllers and Computer Vision. Demonstrates capability in analyzing complex, multi-threaded industrial systems. |
-| **[GameRent](https://github.com/fuatsimsek/GameRent)** | `C#` `.NET 7` `MSSQL` | **Enterprise Application:** A game rental automation system focusing on **ACID properties** in databases and secure CRUD operations within a .NET environment. |
-| **[Primefit](https://github.com/fuatsimsek/Primefit)** | `PHP` `MySQL` `JS` | **E-Commerce Logic:** A custom-built e-commerce platform designed to understand payment gateways, session management, and common web vulnerabilities (XSS, SQLi) from a developer's perspective. |
-| **[Student Info System](https://github.com/fuatsimsek/Student-Information-System)** | `Python` `PyQt5` `SQL` | **Desktop GUI App:** A local management system focusing on data integrity and direct database interactions via Python connectors. |
+| **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `SQLAlchemy` `RBAC` | **SaaS / AppSec:** Implements **Role-Based Access Control** and secure authentication flows to study privilege escalation vectors and IDOR vulnerabilities. |
+| **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` | **Robotics / OT:** A "Digital Twin" simulation using PID controllers. Focuses on manipulating industrial control logic and understanding memory safety in C++. |
+| **[LungRisk-QuitSmoking-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Python` `AI/ML` | **Artificial Intelligence:** An AI model for health risk assessment, developed to understand data privacy and adversarial machine learning concepts. |
+| **[GameRent](https://github.com/fuatsimsek/GameRent)** | `.NET 7` `MSSQL` `ACID` | **Enterprise Architecture:** A monolithic automation system focusing on database integrity (ACID) and secure CRUD operations in the .NET ecosystem. |
+| **[Primefit](https://github.com/fuatsimsek/Primefit)** | `PHP` `MySQL` `JS` | **Legacy Web:** A custom e-commerce site built to analyze common web vulnerabilities (XSS, SQLi, Session Hijacking) in raw PHP environments. |
+| **[Student Info System](https://github.com/fuatsimsek/Student-Information-System)** | `Python` `PyQt5` | **Desktop Security:** A local management app focusing on direct database connectors and input sanitization on desktop clients. |
+
+<p align="right">
+  <a href="https://github.com/fuatsimsek?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-→-black?style=for-the-badge" alt="View All Repos">
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Activity
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
