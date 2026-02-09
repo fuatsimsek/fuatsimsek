@@ -64,10 +64,13 @@ Although my primary focus is **Red Teaming** and **Application Penetration Testi
 </p>
 
 ---
-
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Top Languages" height="160" />
+  <a href="https://github.com/fuatsimsek">
+    <img src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=graywhite&hide_border=true" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/fuatsimsek">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=graywhite&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  </a>
 </div>
