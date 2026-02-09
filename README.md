@@ -64,11 +64,7 @@ I focus on the **Software Development Life Cycle (SDLC)** by building complex ap
 
 ## Activity
 
-<div align="center">
-  <a href="https://github.com/fuatsimsek">
-    <img src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=dark&hide_border=true" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/fuatsimsek">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
