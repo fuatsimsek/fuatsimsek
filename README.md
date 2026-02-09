@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/68f7208d-2a88-4155-8436-612791090304" alt="Offensive Security & Engineering" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/68f7208d-2a88-4155-8436-612791090304" alt="Engineering and Security" style="width: 100%; height: auto; object-fit: cover; border-radius: 6px;">
 </div>
 
 <br>
@@ -20,15 +20,12 @@
 
 ## Engineering Philosophy & Vision
 
-I am a **Computer Engineering Senior** at Amasya University with a dedicated focus on **Offensive Security**.
+I am a **Computer Engineering Senior** at Amasya University. My methodology is rooted in engineering: **"To break a system effectively, you must first know how to build it."**
 
-My methodology is rooted in engineering: **"To break a system effectively, you must first know how to build it."**
-I focus on the **Software Development Life Cycle (SDLC)** by building complex, full-stack applications. I architect these systems personally to master underlying technologies (Microservices, MVC, ORM, AI), gaining a deep understanding of architectural flaws and logical vulnerabilities.
-
-Although my primary focus is **Red Teaming** and **Application Penetration Testing**, I have deliberately cultivated strong **Blue Team skills (SIEM, DLP, Threat Intelligence)**. Understanding how defensive layers are configured allows me to design more sophisticated evasion techniques and comprehensive attack simulations.
+I focus on the **Software Development Life Cycle (SDLC)** by building complex applications to master underlying technologies (Microservices, MVC, ORM, AI). I architect these systems personally to understand their structural integrity. Although my primary focus is **Red Teaming** and **Application Penetration Testing**, I have built strong foundations in **SIEM, DLP, and Threat Intelligence** to better understand and bypass modern defensive layers.
 
 * **Focus:** Application Penetration Testing, Reverse Engineering, Secure Code Review, and Red Teaming.
-* **Methodology:** Developing robust applications to understand the "builder's mindset," which is essential for advanced exploitation.
+* **Methodology:** Developing robust applications to master the "builder's mindset," essential for advanced exploitation.
 
 ---
 
@@ -46,16 +43,16 @@ Although my primary focus is **Red Teaming** and **Application Penetration Testi
 ---
 
 ## Engineering Projects
-*I build these projects to deepen my understanding of software architecture, which directly contributes to my security research capabilities.*
+*I develop these projects to deepen my mastery of software architecture and identify attack surfaces.*
 
-| Project | Core Stack | Description & Engineering Purpose |
+| Project | Core Stack | Description & Purpose |
 | :--- | :--- | :--- |
-| **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `SQLAlchemy` `RBAC` | **B2B SaaS:** A comprehensive CRM and accounting system designed to manage client relationships, appointments, and support tickets with complex Role-Based Access Control logic. |
-| **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` | **Robotics Simulation:** A "Digital Twin" project using Computer Vision and PID controllers to automate industrial waste separation in a physics-based simulation environment. |
-| **[LungRisk-QuitSmoking-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Django` `Python` `AI/ML` | **AI Web Application:** A web-based AI platform developed with **Django** to analyze clinical data and predict health risks, focusing on secure model deployment and data handling. |
-| **[GameRent](https://github.com/fuatsimsek/GameRent)** | `.NET 7` `MSSQL` | **Enterprise Automation:** A monolithic game rental management system focusing on strict database integrity (ACID) and layered architecture in the .NET ecosystem. |
-| **[Primefit](https://github.com/fuatsimsek/Primefit)** | `PHP` `MySQL` `JS` | **E-Commerce:** A fully functional online store for fitness products, featuring custom shopping cart logic, user session management, and frontend design. |
-| **[Student Info System](https://github.com/fuatsimsek/Student-Information-System)** | `Python` `PyQt5` | **Desktop Application:** A local management tool designed for efficient student record handling with direct database operations and a custom GUI. |
+| **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `SQLAlchemy` `RBAC` | **B2B SaaS:** A comprehensive CRM and accounting platform managing client relations, appointments, and support tickets via custom Role-Based Access Control. |
+| **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` | **Robotics Simulation:** A "Digital Twin" project using Computer Vision and PID controllers to automate industrial waste separation in Gazebo. |
+| **[LungRisk-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Django` `Python` `AI/ML` | **AI Web Application:** A platform developed with **Django** that uses Machine Learning to analyze clinical data and predict smoking-related health risks. |
+| **[GameRent](https://github.com/fuatsimsek/GameRent)** | `.NET 7` `MSSQL` | **Enterprise Automation:** A monolithic management system focusing on strict database integrity (ACID) and layered architecture in .NET. |
+| **[Primefit](https://github.com/fuatsimsek/Primefit)** | `PHP` `MySQL` `JS` | **E-Commerce:** A functional fitness store featuring shopping cart logic, session management, and custom frontend design. |
+| **[Student Info System](https://github.com/fuatsimsek/Student-Information-System)** | `Python` `PyQt5` | **Desktop Application:** A local tool for student record management focusing on direct database interactions and GUI design. |
 
 <p align="right">
   <a href="https://github.com/fuatsimsek?tab=repositories">
@@ -64,13 +61,14 @@ Although my primary focus is **Red Teaming** and **Application Penetration Testi
 </p>
 
 ---
+
 ## Activity
 
 <div align="center">
   <a href="https://github.com/fuatsimsek">
-    <img src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=graywhite&hide_border=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=dark&hide_border=true" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/fuatsimsek">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=graywhite&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
   </a>
 </div>
