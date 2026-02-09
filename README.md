@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="arkaplan.jpeg" alt="Offensive Security & Engineering" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/68f7208d-2a88-4155-8436-612791090304" alt="Offensive Security & Engineering" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;">
 </div>
 
 <br>
@@ -65,7 +65,9 @@ Unlike script-reliant approaches, I focus on the **Software Development Life Cyc
 
 ## 📊 Activity
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
+<div align="center">
+  <a href="https://github.com/fuatsimsek">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
