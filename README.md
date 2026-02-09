@@ -61,7 +61,7 @@ I focus on the **Software Development Life Cycle (SDLC)** by building complex ap
 </p>
 
 ---
-
+<!--
 ## Activity
 
 <div align="center">
@@ -72,3 +72,4 @@ I focus on the **Software Development Life Cycle (SDLC)** by building complex ap
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
   </a>
 </div>
+-->
