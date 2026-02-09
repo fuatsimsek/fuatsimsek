@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Fuat Şimşek</h1>
-<h3 align="center">Computer Engineer | Application Penetration Tester | Security Researcher</h3>
+<h3 align="center">Computer Engineer | Application Security Enthusiast | Security Researcher</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/fuatsimsek">
@@ -18,15 +18,15 @@
 
 ---
 
-## 👨‍💻 Engineering Philosophy & Security Vision
+## 👨‍💻 Engineering Philosophy & Vision
 
-I am a **Computer Engineering Senior** at Amasya University, holding a **Certified Application Penetration Tester** credential.
+I am a **Computer Engineering Senior** at Amasya University with a strong passion for **Offensive Security**.
 
-My methodology is simple: **"You cannot effectively secure (or exploit) what you do not understand."**
-Unlike script-reliant approaches, I focus on the **Software Development Life Cycle (SDLC)**. I build complex, full-stack applications as personal projects to master the underlying technologies (Microservices, MVC, ORM, Cloud Infra). By architecting these systems myself, I gain a deep understanding of logical flaws, architectural vulnerabilities, and attack surfaces that automated scanners often miss.
+My approach is grounded in engineering: **"To break a system effectively, you must first know how to build it."**
+I focus on the **Software Development Life Cycle (SDLC)** by building complex, full-stack applications. I develop these projects to master the underlying technologies (Microservices, MVC, ORM, AI). This deep engineering knowledge allows me to identify architectural flaws and logical vulnerabilities that surface in real-world applications.
 
-* 🎯 **Primary Focus:** Web Application Penetration Testing, Secure Code Review, and Red Teaming.
-* 🛠️ **Approach:** Leveraging strong engineering foundations (.NET, Python, C++) to develop custom exploit chains and analyze backend logic.
+* 🎯 **Focus:** Web Application Penetration Testing, Secure Code Review, and Red Teaming.
+* 🛠️ **Methodology:** Developing robust applications to understand the "builder's mindset," which is essential for advanced exploitation.
 
 ---
 
@@ -38,22 +38,22 @@ Unlike script-reliant approaches, I focus on the **Software Development Life Cyc
 | **Backend & Frameworks** | **.NET Core**, **ASP.NET MVC**, **Django**, **Flask**, Node.js, PHP <br> *Microservices Architecture, MVC Pattern, RESTful APIs* |
 | **Languages** | **Python**, **C#**, **C++**, **C**, JavaScript/TypeScript, SQL |
 | **Data & ORM** | **MSSQL**, **PostgreSQL**, **MongoDB**, **MySQL**, SQLite <br> *SQLAlchemy, Entity Framework, ACID Principles* |
-| **Systems & Cloud** | **AWS (Amazon Web Services)**, **Docker**, Linux (Debian/RedHat), Windows Server, **ROS (Robot Operating System)**, Gazebo |
-| **Security Competencies** | Application Penetration Testing, Source Code Analysis, Network Escalation, Threat Intelligence |
+| **Systems & Cloud** | **AWS**, **Docker**, Linux (Debian/RedHat), Windows Server, **ROS (Robot Operating System)**, Gazebo |
+| **Security Competencies** | Application Penetration Testing, Source Code Analysis, Network Escalation, Threat Intelligence (Foundation) |
 
 ---
 
-## 🚀 Engineering Projects for Security Research
-*These projects are developed to master specific technologies and understand their security implications.*
+## 🚀 Engineering Projects
+*I build these projects to deepen my understanding of software architecture, which directly contributes to my security research capabilities.*
 
-| Project | Core Stack | Engineering & Security Context |
+| Project | Core Stack | Description & Engineering Purpose |
 | :--- | :--- | :--- |
-| **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `SQLAlchemy` `RBAC` | **SaaS / AppSec:** Implements **Role-Based Access Control** and secure authentication flows to study privilege escalation vectors and IDOR vulnerabilities. |
-| **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` | **Robotics / OT:** A "Digital Twin" simulation using PID controllers. Focuses on manipulating industrial control logic and understanding memory safety in C++. |
-| **[LungRisk-QuitSmoking-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Python` `AI/ML` | **Artificial Intelligence:** An AI model for health risk assessment, developed to understand data privacy and adversarial machine learning concepts. |
-| **[GameRent](https://github.com/fuatsimsek/GameRent)** | `.NET 7` `MSSQL` `ACID` | **Enterprise Architecture:** A monolithic automation system focusing on database integrity (ACID) and secure CRUD operations in the .NET ecosystem. |
-| **[Primefit](https://github.com/fuatsimsek/Primefit)** | `PHP` `MySQL` `JS` | **Legacy Web:** A custom e-commerce site built to analyze common web vulnerabilities (XSS, SQLi, Session Hijacking) in raw PHP environments. |
-| **[Student Info System](https://github.com/fuatsimsek/Student-Information-System)** | `Python` `PyQt5` | **Desktop Security:** A local management app focusing on direct database connectors and input sanitization on desktop clients. |
+| **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `SQLAlchemy` `RBAC` | **B2B SaaS:** A comprehensive CRM and accounting system designed to manage client relationships, appointments, and support tickets with complex Role-Based Access Control logic. |
+| **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` | **Robotics Simulation:** A "Digital Twin" project using Computer Vision and PID controllers to automate industrial waste separation in a physics-based simulation environment. |
+| **[LungRisk-QuitSmoking-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Python` `Scikit-learn` | **Artificial Intelligence:** A Machine Learning model developed to analyze clinical data and predict health risks associated with smoking habits. |
+| **[GameRent](https://github.com/fuatsimsek/GameRent)** | `.NET 7` `MSSQL` | **Enterprise Automation:** A monolithic game rental management system focusing on strict database integrity (ACID) and layered architecture in the .NET ecosystem. |
+| **[Primefit](https://github.com/fuatsimsek/Primefit)** | `PHP` `MySQL` `JS` | **E-Commerce:** A fully functional online store for fitness products, featuring custom shopping cart logic, user session management, and frontend design. |
+| **[Student Info System](https://github.com/fuatsimsek/Student-Information-System)** | `Python` `PyQt5` | **Desktop Application:** A local management tool designed for efficient student record handling with direct database operations and a custom GUI. |
 
 <p align="right">
   <a href="https://github.com/fuatsimsek?tab=repositories">
@@ -66,8 +66,6 @@ Unlike script-reliant approaches, I focus on the **Software Development Life Cyc
 ## 📊 Activity
 
 <div align="center">
-  <a href="https://github.com/fuatsimsek">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Top Languages" height="160" />
 </div>
