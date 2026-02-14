@@ -72,4 +72,3 @@ I focus on the **Software Development Life Cycle (SDLC)** by building complex ap
 ## Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=github_dark" />
-
