@@ -16,6 +16,8 @@
   </a>
 </p>
 
+<p align="center"><i>🎯 Currently focusing on: Advanced Web &amp; Mobile Application Penetration Testing, Reverse Engineering, and Red Team Operations.</i></p>
+
 ---
 
 ## Engineering Philosophy & Vision
@@ -47,6 +49,7 @@ I focus on the **Software Development Life Cycle (SDLC)** by building complex ap
 
 | Project | Core Stack | Description & Purpose |
 | :--- | :--- | :--- |
+| **[AppRay](https://github.com/fuatsimsek/appray)** ⭐ | `.NET 8` `Nuclei` `MobSF` `Docker` `Ollama` | **Mobile Security Platform:** End-to-end Android security pipeline — SAST (JADX + regex + MITRE CWE) → emulator-based dynamic analysis with mitmproxy traffic capture → DAST (custom Nuclei templates) → AI-assisted unified report. The embodiment of the "build to break" philosophy. |
 | **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `SQLAlchemy` `RBAC` | **B2B SaaS:** A comprehensive CRM and accounting platform managing client relations, appointments, and support tickets via custom Role-Based Access Control. |
 | **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` | **Robotics Simulation:** A "Digital Twin" project using Computer Vision and PID controllers to automate industrial waste separation in Gazebo. |
 | **[LungRisk-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Django` `Python` `AI/ML` | **AI Web Application:** A platform developed with **Django** that uses Machine Learning to analyze clinical data and predict smoking-related health risks. |
@@ -62,10 +65,32 @@ I focus on the **Software Development Life Cycle (SDLC)** by building complex ap
 
 ---
 
-## Activity Graph
+## 🎓 Certifications
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fuatsimsek&theme=github-compact" />
-## GitHub Stats
+| Certification | Issuer | Date |
+| :--- | :--- | :--- |
+| **Siber Vatan Program** | Ministry of Industry & Technology · Presidency of Defence Industries | Jun 2026 |
+| **Certified Web Security Expert (CWSE)** | Hackviser | May 2026 |
+| **Penetration Tester (120 Hours)** | CyberExam | Feb 2026 |
+| **Cyber Threat Intelligence Analyst** | CyberExam | Feb 2026 |
+| **SOC Analyst Level 1 (100 Hours)** | CyberExam | Aug 2025 |
+| **Introduction to Cybersecurity** | Cisco | 2025 |
+| **Pre Security** | TryHackMe | 2025 |
+| **Cyber Security 101** | TryHackMe | 2025 |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fuatsimsek&theme=dark" />
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="Fuat Şimşek's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fuatsimsek&theme=github-dark" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuatsimsek&theme=github-compact" alt="Contribution Activity Graph" />
+</div>
