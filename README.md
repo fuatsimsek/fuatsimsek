@@ -40,7 +40,7 @@ As a **Computer Engineer and SOC Analyst**, I focus on bridging the gap between 
 | **Backend & Frameworks** | **.NET Core**, **ASP.NET MVC**, **Django**, **Flask**, Node.js <br> *Microservices Architecture, RESTful APIs* |
 | **Languages** | **Python**, **C#**, **C++**, **C**, JavaScript/TypeScript, SQL |
 | **Data & ORM** | **MSSQL**, **PostgreSQL**, **MongoDB**, **MySQL** <br> *SQLAlchemy, Entity Framework, ACID Principles* |
-| **Systems & Cloud** | **AWS**, **Docker**, Linux (Debian/RedHat), Windows Server |
+| **Systems & Cloud** | **AWS**, **Docker**, Linux (Debian/RedHat), Windows Server, Active Directory |
 
 ---
 
@@ -50,6 +50,7 @@ As a **Computer Engineer and SOC Analyst**, I focus on bridging the gap between 
 | Project | Core Stack | Description & Purpose |
 | :--- | :--- | :--- |
 | **[AppRay](https://github.com/fuatsimsek/appray)** ⭐ | `.NET 8` `Nuclei` `MobSF` `Docker` `Ollama` | **Mobile Security Platform:** End-to-end Android security pipeline — SAST (JADX + regex + MITRE CWE) → emulator-based dynamic analysis with mitmproxy traffic capture → DAST (custom Nuclei templates) → AI-assisted unified report. |
+| **[bagchat](https://github.com/fuatsimsek/bagchat)** | `ASP.NET Core` `React` `MongoDB` `Docker` `AD` | **Internal Communications:** Municipality internal messaging & announcement platform featuring Active Directory integration and a fully containerized architecture. |
 | **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `SQLAlchemy` `RBAC` | **B2B SaaS:** A comprehensive CRM and accounting platform managing client relations, appointments, and support tickets via custom Role-Based Access Control. |
 | **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` | **Robotics Simulation:** A "Digital Twin" project using Computer Vision and PID controllers to automate industrial waste separation in Gazebo. |
 | **[LungRisk-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Django` `Python` `AI/ML` | **AI Web Application:** A platform developed with **Django** that uses Machine Learning to analyze clinical data and predict smoking-related health risks. |
