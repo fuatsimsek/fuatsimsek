@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/68f7208d-2a88-4155-8436-612791090304" alt="Engineering and Security" style="width: 100%; height: auto; object-fit: cover; border-radius: 6px;">
+  <img src="[https://github.com/user-attachments/assets/68f7208d-2a88-4155-8436-612791090304](https://pin.it/1AQZFa9pu)" alt="Engineering and Security" style="width: 100%; height: auto; object-fit: cover; border-radius: 6px;">
 </div>
 
 <br>
