@@ -1,5 +1,99 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f3769a19-ab99-4a7d-b689-6e47ec13abbb" alt="Coffee and Code" style="width: 100%; height: auto; object-fit: cover; border-radius: 6px;">
+  <img src="https://github.com/user-attachments/assets/f3769a19-ab99-4a7d-b689-6e47ec13abbb" alt="Coffee and Code" style="width: 40%; height: auto; object-fit: cover; border-radius: 6px;">
+</div>
+
+<br>
+
+<h1 align="center">Fuat Şimşek</h1>
+<h3 align="center">Computer Engineer | SOC Analyst | Cybersecurity Researcher</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/fuatsimsek">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fuatsiimsek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center"><i>🎯 Currently focusing on: Security Operations (SOC), Threat Detection, Incident Response, and Holistic Application Security.</i></p>
+
+---
+
+## Engineering Philosophy & Vision
+
+My methodology is rooted in a core engineering principle: **"To defend a system effectively, you must first understand how it is built—and how it can be broken."**
+
+As a **Computer Engineer and SOC Analyst**, I focus on bridging the gap between the Software Development Life Cycle (SDLC) and defensive security operations. By actively building complex applications (Microservices, AI, Full-stack), I have mastered the underlying architectures of modern systems. I combine this "builder's mindset" with my offensive security background (Penetration Testing, Vulnerability Analysis) to proactively hunt threats, analyze logs, and strengthen defensive layers via SIEM and the MITRE ATT&CK framework.
+
+* **Focus:** Security Operations Center (SOC), Cyber Threat Intelligence, Log Analysis, and Application Security.
+* **Methodology:** Merging software engineering roots with offensive insights to create robust, proactive defense strategies.
+
+---
+
+## Technical Architecture & Stack
+*I utilize a diverse stack to understand the anatomy of modern applications and defend them effectively.*
+
+| Domain | Technologies & Architectures |
+| :--- | :--- |
+| **Security Competencies** | **SOC Operations**, **SIEM**, **Threat Intelligence**, **Incident Response**, **Application Penetration Testing**, Secure Code Review |
+| **Backend & Frameworks** | **.NET Core**, **ASP.NET MVC**, **Django**, **Flask**, Node.js <br> *Microservices Architecture, RESTful APIs* |
+| **Languages** | **Python**, **C#**, **C++**, **C**, JavaScript/TypeScript, SQL |
+| **Data & ORM** | **MSSQL**, **PostgreSQL**, **MongoDB**, **MySQL** <br> *SQLAlchemy, Entity Framework, ACID Principles* |
+| **Systems & Cloud** | **AWS**, **Docker**, Linux (Debian/RedHat), Windows Server, Active Directory |
+
+---
+
+## Engineering Projects
+*I develop these projects to deepen my mastery of software architecture, which directly enhances my ability to secure and monitor them.*
+
+| Project | Core Stack | Description & Purpose |
+| :--- | :--- | :--- |
+| **[AppRay](https://github.com/fuatsimsek/appray)** ⭐ | `.NET 8` `Nuclei` `MobSF` `Docker` `Ollama` | **Mobile Security Platform:** End-to-end Android security pipeline — SAST (JADX + regex + MITRE CWE) → emulator-based dynamic analysis with mitmproxy traffic capture → DAST (custom Nuclei templates) → AI-assisted unified report. |
+| **[bagchat](https://github.com/fuatsimsek/bagchat)** | `ASP.NET Core` `React` `MongoDB` `Docker` `AD` | **Internal Communications:** Municipality internal messaging & announcement platform featuring Active Directory integration and a fully containerized architecture. |
+| **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `SQLAlchemy` `RBAC` | **B2B SaaS:** A comprehensive CRM and accounting platform managing client relations, appointments, and support tickets via custom Role-Based Access Control. |
+| **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` | **Robotics Simulation:** A "Digital Twin" project using Computer Vision and PID controllers to automate industrial waste separation in Gazebo. |
+| **[LungRisk-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Django` `Python` `AI/ML` | **AI Web Application:** A platform developed with **Django** that uses Machine Learning to analyze clinical data and predict smoking-related health risks. |
+| **[GameRent](https://github.com/fuatsimsek/GameRent)** | `.NET 7` `MSSQL` | **Enterprise Automation:** A monolithic management system focusing on strict database integrity (ACID) and layered architecture in .NET. |
+| **[Primefit](https://github.com/fuatsimsek/Primefit)** | `PHP` `MySQL` `JS` | **E-Commerce:** A functional fitness store featuring shopping cart logic, session management, and custom frontend design. |
+| **[Student Info System](https://github.com/fuatsimsek/Student-Information-System)** | `Python` `PyQt5` | **Desktop Application:** A local tool for student record management focusing on direct database interactions and GUI design. |
+
+<p align="right">
+  <a href="https://github.com/fuatsimsek?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-→-black?style=for-the-badge" alt="View All Repos">
+  </a>
+</p>
+
+---
+
+## 🎓 Certifications
+
+| Certification | Issuer | Date |
+| :--- | :--- | :--- |
+| **Siber Vatan Program** | Ministry of Industry & Technology · Presidency of Defence Industries | Jun 2026 |
+| **Certified Web Security Expert (CWSE)** | Hackviser | May 2026 |
+| **Penetration Tester (120 Hours)** | CyberExam | Feb 2026 |
+| **Cyber Threat Intelligence Analyst** | CyberExam | Feb 2026 |
+| **SOC Analyst Level 1 (100 Hours)** | CyberExam | Aug 2025 |
+| **Introduction to Cybersecurity** | Cisco | 2025 |
+| **Pre Security** | TryHackMe | 2025 |
+| **Cyber Security 101** | TryHackMe | 2025 |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fuatsimsek&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="Fuat Şimşek's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatsimsek&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fuatsimsek&theme=github-dark" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuatsimsek&theme=github-compact" alt="Contribution Activity Graph" />
 </div>
 
 <br>
