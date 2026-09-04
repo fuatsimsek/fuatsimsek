@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Fuat Şimşek</h1>
-<h3 align="center">Computer Engineer | Application Penetration Tester | Security Researcher</h3>
+<h3 align="center">Computer Engineer | SOC Analyst | Cybersecurity Researcher</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/fuatsimsek">
@@ -16,40 +16,40 @@
   </a>
 </p>
 
-<p align="center"><i>🎯 Currently focusing on: Advanced Web &amp; Mobile Application Penetration Testing, Reverse Engineering, and Red Team Operations.</i></p>
+<p align="center"><i>🎯 Currently focusing on: Security Operations (SOC), Threat Detection, Incident Response, and Holistic Application Security.</i></p>
 
 ---
 
 ## Engineering Philosophy & Vision
 
-I am a **Computer Engineering Senior** at Amasya University. My methodology is rooted in engineering: **"To break a system effectively, you must first know how to build it."**
+My methodology is rooted in a core engineering principle: **"To defend a system effectively, you must first understand how it is built—and how it can be broken."**
 
-I focus on the **Software Development Life Cycle (SDLC)** by building complex applications to master underlying technologies (Microservices, MVC, ORM, AI). I architect these systems personally to understand their structural integrity. Although my primary focus is **Red Teaming** and **Application Penetration Testing**, I have built strong foundations in **SIEM, DLP, and Threat Intelligence** to better understand and bypass modern defensive layers.
+As a **Computer Engineer and SOC Analyst**, I focus on bridging the gap between the Software Development Life Cycle (SDLC) and defensive security operations. By actively building complex applications (Microservices, AI, Full-stack), I have mastered the underlying architectures of modern systems. I combine this "builder's mindset" with my offensive security background (Penetration Testing, Vulnerability Analysis) to proactively hunt threats, analyze logs, and strengthen defensive layers via SIEM and the MITRE ATT&CK framework.
 
-* **Focus:** Application Penetration Testing, Reverse Engineering, Secure Code Review, and Red Teaming.
-* **Methodology:** Developing robust applications to master the "builder's mindset," essential for advanced exploitation.
+* **Focus:** Security Operations Center (SOC), Cyber Threat Intelligence, Log Analysis, and Application Security.
+* **Methodology:** Merging software engineering roots with offensive insights to create robust, proactive defense strategies.
 
 ---
 
 ## Technical Architecture & Stack
-*I utilize a diverse stack to understand the anatomy of modern applications.*
+*I utilize a diverse stack to understand the anatomy of modern applications and defend them effectively.*
 
 | Domain | Technologies & Architectures |
 | :--- | :--- |
-| **Backend & Frameworks** | **.NET Core**, **ASP.NET MVC**, **Django**, **Flask**, Node.js, PHP <br> *Microservices Architecture, MVC Pattern, RESTful APIs* |
+| **Security Competencies** | **SOC Operations**, **SIEM**, **Threat Intelligence**, **Incident Response**, **Application Penetration Testing**, Secure Code Review |
+| **Backend & Frameworks** | **.NET Core**, **ASP.NET MVC**, **Django**, **Flask**, Node.js <br> *Microservices Architecture, RESTful APIs* |
 | **Languages** | **Python**, **C#**, **C++**, **C**, JavaScript/TypeScript, SQL |
-| **Data & ORM** | **MSSQL**, **PostgreSQL**, **MongoDB**, **MySQL**, SQLite <br> *SQLAlchemy, Entity Framework, ACID Principles* |
-| **Systems & Cloud** | **AWS**, **Docker**, Linux (Debian/RedHat), Windows Server, **ROS (Robot Operating System)**, Gazebo |
-| **Security Competencies** | **Application Penetration Testing**, **Reverse Engineering**, **Source Code Analysis**, **SIEM**, **DLP**, **Threat Intelligence** |
+| **Data & ORM** | **MSSQL**, **PostgreSQL**, **MongoDB**, **MySQL** <br> *SQLAlchemy, Entity Framework, ACID Principles* |
+| **Systems & Cloud** | **AWS**, **Docker**, Linux (Debian/RedHat), Windows Server |
 
 ---
 
 ## Engineering Projects
-*I develop these projects to deepen my mastery of software architecture and identify attack surfaces.*
+*I develop these projects to deepen my mastery of software architecture, which directly enhances my ability to secure and monitor them.*
 
 | Project | Core Stack | Description & Purpose |
 | :--- | :--- | :--- |
-| **[AppRay](https://github.com/fuatsimsek/appray)** ⭐ | `.NET 8` `Nuclei` `MobSF` `Docker` `Ollama` | **Mobile Security Platform:** End-to-end Android security pipeline — SAST (JADX + regex + MITRE CWE) → emulator-based dynamic analysis with mitmproxy traffic capture → DAST (custom Nuclei templates) → AI-assisted unified report. The embodiment of the "build to break" philosophy. |
+| **[AppRay](https://github.com/fuatsimsek/appray)** ⭐ | `.NET 8` `Nuclei` `MobSF` `Docker` `Ollama` | **Mobile Security Platform:** End-to-end Android security pipeline — SAST (JADX + regex + MITRE CWE) → emulator-based dynamic analysis with mitmproxy traffic capture → DAST (custom Nuclei templates) → AI-assisted unified report. |
 | **[Virtual Accounting Platform](https://github.com/fuatsimsek/virtual-accounting-platform)** | `Flask` `SQLAlchemy` `RBAC` | **B2B SaaS:** A comprehensive CRM and accounting platform managing client relations, appointments, and support tickets via custom Role-Based Access Control. |
 | **[Autonomous Waste Sorting](https://github.com/fuatsimsek/Autonomous-Waste-Sorting-System)** | `ROS` `Gazebo` `C++` | **Robotics Simulation:** A "Digital Twin" project using Computer Vision and PID controllers to automate industrial waste separation in Gazebo. |
 | **[LungRisk-AI](https://github.com/fuatsimsek/LungRisk-QuitSmoking-AI)** | `Django` `Python` `AI/ML` | **AI Web Application:** A platform developed with **Django** that uses Machine Learning to analyze clinical data and predict smoking-related health risks. |
